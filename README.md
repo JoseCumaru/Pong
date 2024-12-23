@@ -1,6 +1,8 @@
 ## Pong Game
 
 Este é um jogo de Pong simples desenvolvido com a biblioteca p5.js. O jogo inclui uma bola que se move pela tela e duas raquetes controladas pelo jogador e pelo computador. O objetivo é marcar pontos fazendo a bola passar pela raquete do adversário.
+- [Acesse o Pong Game aqui](https://josecumaru.github.io/pong-game/)
+
 
 ---
 
@@ -21,15 +23,6 @@ Este é um jogo de Pong simples desenvolvido com a biblioteca p5.js. O jogo incl
 
 ---
 
-## Como Jogar
-1. Clone o repositório:
-   ```bash
-   git clone <URL-do-repositório>
-2. Navegue até o diretório do projeto:
-   ```bash
-   cd pong-game
-
-3. Abra o arquivo index.html em um navegador web.
 ## Estrutura do Projeto
 
 - **sketch.js**: Contém a lógica principal do jogo.
